@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+html {
+  box-sizing: border-box;
+}
+
+.item {
+  padding: 40px 40px;
+  width: 1200px;
+  height: 200px;
+  /* border: 5px solid blue; */
+}
+
+.allItems {
+  padding: 150px 150px;
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+.image {
+  padding: 20px 20px;
+  width: 300px;
+  height: 150px;
+  /* border: 5px solid green; */
+  float: left;
+}
+
+.donate {
+  padding: 20px 20px;
+  width: 70px;
+  height: 70px;
+  /* border: 5px solid cadetblue; */
+  float: left;
+}
+
+.text {
+  padding: 20px 50px;
+  width: 600px;
+  height: 150px;
+  /* border: 5px solid purple; */
+  float: left;
+  font-size: 10px;
+  text-align: center;
+  text-anchor: start
+}
+
+img { 
+  max-height:100px; 
+  max-width:300px; 
+  width: auto; 
+} 
+
+.myBody {
+  background-color:rgb(188, 255, 208)
+}
+
+.topTitle {
+  font-size: 40px;
+  font: oblique
+}

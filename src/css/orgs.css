@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+html {
+  box-sizing: border-box;
+}
+
+.item {
+  padding: 40px 40px;
+  width: 1200px;
+  height: 200px;
+}
+
+.allItems {
+  padding: 150px 150px;
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+.image {
+  padding: 20px 20px;
+  width: 400px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 3000px; 
+  max-height: 3000px;
+}
+
+image.resize {
+  width:540px;
+  height: auto;
+} 
+
+.text_main {
+  padding: 20px 50px;
+  width: 1000px;
+  height: 150px;
+  font-size: 15px;
+  text-align: center;
+  color: white;
+}
+
+
+img { 
+  max-height:100px; 
+  max-width:100px; 
+  width: auto;
+} 
+
+.myBody1 {
+  background-color:rgb(54, 156, 196)
+}
+.myBody2 {
+  background-color:rgb(0, 0, 0)
+}
+.myBody3 {
+  background-color:rgb(94, 31, 2)
+}
+.myBody4 {
+  background-color:rgb(66, 35, 95)
+}
+
+.topTitle {
+  font-size: 40px;
+  font: oblique
+}
