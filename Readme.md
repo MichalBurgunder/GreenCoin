@@ -18,6 +18,7 @@ But what to do with these coins? Seeing that companies like to give to give to c
 
 The only downside, is that companies would have to pay for the GreenCoin, as well as the engineering.
 
+![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.17.png)
 ![](https://github.com/MichalBurgunder/GreenCoin/edit/master/blockchain_model.png=100x20 "2")
 
 ## The Prototype
